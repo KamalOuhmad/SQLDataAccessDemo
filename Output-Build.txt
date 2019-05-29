@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: FormUI, Configuration: Debug Any CPU ------
+1>C:\Users\lnuar\source\repos\SQLDataAccessDemo\FormUI\Dashboard.Designer.cs(163,30,163,44): warning CS0169: The field 'Dashboard.label1_Click_2' is never used
+1>C:\Users\lnuar\source\repos\SQLDataAccessDemo\FormUI\Dashboard.Designer.cs(157,30,157,49): warning CS0169: The field 'Dashboard.LastNameLabel_Click' is never used
+1>C:\Users\lnuar\source\repos\SQLDataAccessDemo\FormUI\Dashboard.Designer.cs(164,30,164,43): warning CS0169: The field 'Dashboard.button1_Click' is never used
+1>  FormUI -> C:\Users\lnuar\source\repos\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
